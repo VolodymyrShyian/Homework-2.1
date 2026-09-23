@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b46caa2-66c5-4781-9de4-410e5edb2883" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ДЗ.2.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07.py" afterDir="false" />
+    <list default="true" id="4b46caa2-66c5-4781-9de4-410e5edb2883" name="Changes" comment="Homework 2.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VolodymyrShyian&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VolodymyrShyian/Homework-2.1.git&quot;,
+    &quot;accountId&quot;: &quot;22ddd4b2-807c-4757-a975-20714b8a26fe&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
   &quot;fromUser&quot;: false
@@ -59,7 +58,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/User/PycharmProjects/PythonProject2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -70,6 +69,11 @@
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -127,12 +131,26 @@
       <workItem from="1790020779127" duration="199000" />
       <workItem from="1790020989988" duration="170000" />
       <workItem from="1790021189502" duration="81000" />
-      <workItem from="1790021333554" duration="1172000" />
+      <workItem from="1790021333554" duration="1813000" />
+      <workItem from="1790185542305" duration="907000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework 2.1">
+      <option name="closed" value="true" />
+      <created>1790022769251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790022769251</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
